@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me"
+permalink: /about/
 excerpt: "About me"
 author_profile: true
 
