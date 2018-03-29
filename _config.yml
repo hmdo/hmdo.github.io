@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ha Manh DO / My Webpage"
+title                    : "Ha Manh Do / My Webpage"
 title_separator          : "-"
-name                     : &name "Ha Manh DO"
+name                     : &name "Ha Manh Do"
 description              : &description "personal description"
 url                      : https://manhhado.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/mypage" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "manhhado/mypage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ha Manh DO"
+  name             : "Ha Manh Do"
   avatar           : "hado.JPG"
-  bio              : "Ph.D Candidate"
-  location         : "Location"
+  bio              : "Ph.D Candidate in Electrical Engineering at Oklahoma State University"
+  location         : "Stillwater"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=fquvbMIAAAAJ"
   email            :
   uri              :
   bitbucket        :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "manhhado"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2896-4023"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "hado_us"
   vine             :
   weibo            :
   xing             :
