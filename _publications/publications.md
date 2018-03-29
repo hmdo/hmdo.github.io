@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 collection: publications
-permalink: /publication/publications
+permalink: /publications
 ---
 # Books/Chapters
 [B4] **Ha Manh Do**, “Chapter 2  ‐ Programmable Logic Device, Chapter 3 – Fundamental of VHDL, Chapter 4 – VHDL‐based Logic Design Methodologies, Chapter 5 – Case studies in  Design of FPGA‐based Digital System with VHDL, *”Digital Logic Design*, The Textbook for students, Published by the Library and Information Center of PTIT, Nov. 2010 (in Vietnamese).
