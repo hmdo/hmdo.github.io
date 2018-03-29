@@ -2,12 +2,11 @@
 title: "Books/Chapters"
 collection: publications
 permalink: /publication/publications
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[B4] **Ha Manh Do**, “Chapter 2  ‐ Programmable Logic Device, Chapter 3 – Fundamental of VHDL, Chapter 4 – VHDL‐based Logic Design Methodologies, Chapter 5 – Case studies in  Design of FPGA‐based Digital System with VHDL, *”Digital Logic Design*, The Textbook for students, Published by the Library and Information Center of PTIT, Nov. 2010 (in Vietnamese).
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[B3]. **Ha Manh Do**, “Chapter 8 ‐ Programmable Logic Devices, Chapter 9 ‐ Methodologies of Digital System Design with VHDL, *”Digital Electronics*, Published by the Posts and Telematics Publishing House, Vietnam, Mar. 2009 (in Vietnamese).
+
+[B2] **Ha Manh Do**, “Chapter 1, 2, 3, 4, 5”, *“Semiconductor Devices”*, The Textbook for students, Published by the Library and Information Center of PTIT, 2007 (in Vietnamese).
+
+[B1] **Ha Manh Do**, “Fundamental of Electronic Measurement and Instrument”, The Textbook for students, Published by the Library and Information Center of PTIT, 2005 (in Vietnamese).
