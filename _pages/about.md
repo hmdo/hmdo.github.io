@@ -1,10 +1,10 @@
 ---
 permalink: /
 title: "About me"
-permalink: /about/
 excerpt: "About me"
 author_profile: true
-
+redirect_from: 
+  - /about/
 ---
 Warm Greetings! My name is Ha Manh Do and I’m currently a PhD Candidate at Oklahoma State University. I’m working as a Graduate Research Assistant in the Laboratory for Advanced Sensing, Computation and Control (ASCC Lab) under the guidance of Prof. Weihua Sheng. I completed my bachelor’s degree in Electrical and Electronics Engineering from Hanoi University of Science and Technology (HUST) in 1999 (Class KTĐT1-K39). My primary areas of interests include:
 
