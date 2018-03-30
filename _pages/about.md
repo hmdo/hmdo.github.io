@@ -19,4 +19,4 @@ Warm Greetings! My name is Ha Manh Do and I earned my M.S. degree in 2015 and is
 
 Apart from research and academics, I enjoy playing the tennis, traveling, and practicing mindfulness. I’m a keen sport enthusiast and I love swimming as well as watching the college football. My favorite team is OSU Cowboys :).
 
-Look around to know more about my research and interests. Thank you for visiting my website.
+Look around to know more about my research and interests. Thank you for visiting my website!
