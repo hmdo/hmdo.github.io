@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Experiences"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/teaching
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Posts and Telecommunications Institute of Technology, Hanoi, Vietnam
+=============================================================
+## Lecturer
+* 413TKL340 – Digital Logic Design,  Spring 11,10,09, 08, 07.
+* 423DAT420 - Digital System Design Projects,Summer 11,10,09.
+* 413CKD240 – Semiconductor Devices, Fall 10, 09, 08, 07, 06.
+* 413DLD240 - Electronic Measurements and Instruments, Fall 05, 04, 03.
