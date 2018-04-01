@@ -1,7 +1,8 @@
 ---
+layout: archive
 title: "Projects"
-collection: projects
 permalink: /projects/
+author_profile: true
 ---
 # Current Projects
 ##Research at Oklahoma State University, USA
