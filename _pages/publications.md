@@ -47,7 +47,7 @@ B3] **Ha M. Do**, *“Chapter 8 - Programmable Logic Devices, Chapter 9 - Method
 
 [C2] **Ha M. Do**; Craig J. Mouser; Weihua Sheng; “[Building a Telepresence Robot Based on an open-source Robot Operating System and Android](https://ascc.okstate.edu/sites/default/files/papers/HaDo_Craig_TACS_2012_Updated.pdf)," *Third Conference on Theoretical and Applied Computer Science (TACS 2012)*, Oklahoma State University, Oklahoma, Feb. 2012.
 
-[P1] Hieu T. Nguyen, **Ha M. Do**, Bac H. Dang, Quang S. Dinh, and Minh. N. Nguyen, “A Development of the Digital Cable Faulty Detection and Measurement System”, in *36th AIC*, Manila, Philippines, 2007.
+[C1] Hieu T. Nguyen, **Ha M. Do**, Bac H. Dang, Quang S. Dinh, and Minh. N. Nguyen, “A Development of the Digital Cable Faulty Detection and Measurement System”, in *36th AIC*, Manila, Philippines, 2007.
 
 # Posters and Presentations
 [P2] **Ha M. Do**, “Sound-based human activity monitoring for home service robots”, NSF Doctoral Consortium meeting, *Automation Science and Engineering (CASE), 2016 IEEE International Conference on*. 2016

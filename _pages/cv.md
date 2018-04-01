@@ -27,9 +27,9 @@ Working Experiences
 Teaching Experiences
 =======
   * Posts and Telecommunications Institute of Technology, Hanoi, Vietnam
-    * 413TKL340 – Digital Logic Design,  Spring 11,10,09, 08, 07.
+    * 413TKL340 - Digital Logic Design,  Spring 11,10,09, 08, 07.
     * 423DAT420 - Digital System Design Projects,Summer 11,10,09.
-    * 413CKD240 – Semiconductor Devices, Fall 10, 09, 08, 07, 06.
+    * 413CKD240 - Semiconductor Devices, Fall 10, 09, 08, 07, 06.
     * 413DLD240 - Electronic Measurements and Instruments, Fall 05, 04, 03.
 
 Research Experiences
@@ -114,7 +114,7 @@ B3] **Ha M. Do**, *“Chapter 8 - Programmable Logic Devices, Chapter 9 - Method
 
 [C2] **Ha M. Do**; Craig J. Mouser; Weihua Sheng; “[Building a Telepresence Robot Based on an open-source Robot Operating System and Android](https://ascc.okstate.edu/sites/default/files/papers/HaDo_Craig_TACS_2012_Updated.pdf)," *Third Conference on Theoretical and Applied Computer Science (TACS 2012)*, Oklahoma State University, Oklahoma, Feb. 2012.
 
-[P1] Hieu T. Nguyen, **Ha M. Do**, Bac H. Dang, Quang S. Dinh, and Minh. N. Nguyen, “A Development of the Digital Cable Faulty Detection and Measurement System”, in *36th AIC*, Manila, Philippines, 2007.
+[C1] Hieu T. Nguyen, **Ha M. Do**, Bac H. Dang, Quang S. Dinh, and Minh. N. Nguyen, “A Development of the Digital Cable Faulty Detection and Measurement System”, in *36th AIC*, Manila, Philippines, 2007.
 
 ## Posters and Presentations
 [P2] **Ha M. Do**, “Sound-based human activity monitoring for home service robots”, NSF Doctoral Consortium meeting, *Automation Science and Engineering (CASE), 2016 IEEE International Conference on*. 2016
@@ -125,7 +125,7 @@ B3] **Ha M. Do**, *“Chapter 8 - Programmable Logic Devices, Chapter 9 - Method
 
 Honors and Awards
 =====
-* Winner, Research Video Competition: My Research at OSU Rocks!, Oklahoma State University.
-  * Video: Companion robots for elderly care.
+* Graduate student award, Research Video Competition: My Research at OSU Rocks!, Oklahoma State University, 2017.
+  * Research video: Companion robots for elderly care.
 * Travel award, NSF Doctoral Consortium, the IEEE 12th Conference on Automation Science and Engineering (CASE 2016). #IIS 1645670
-* Aug. 2011 – Jul. 2013, “VIED fellowship”, a special program of the Vietnam Government to train the best Vietnamese young lecturers overseas using the state fund.
+* Aug. 2011 – Jul. 2013, “VIED fellowship”, a special program of the Vietnam Government to train the best Vietnamese young lecturers overseas.
