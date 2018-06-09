@@ -16,7 +16,7 @@ B3] **Ha M. Do**, *“Chapter 8 - Programmable Logic Devices, Chapter 9 - Method
 # Journals  
 [J3] **Ha M. Do**, Minh Pham, Weihua Sheng, Dan Yang, and Meiqin Liu, "[RiSH: A robot-integrated smart home for elderly care.](https://doi.org/10.1016/j.robot.2017.12.008)" *Robotics and Autonomous Systems* 101 (2018).
 
-[J2] Minh Pham, Yehenew Mengistu, **Ha M. D**, Weihua Sheng, "[Delivering home healthcare through a Cloud-based Smart Home Environment (CoSHE)](https://doi.org/10.1016/j.future.2017.10.040)." *Future Generation Computer Systems,* 81 (2018).
+[J2] Minh Pham, Yehenew Mengistu, **Ha M. Do**, Weihua Sheng, "[Delivering home healthcare through a Cloud-based Smart Home Environment (CoSHE)](https://doi.org/10.1016/j.future.2017.10.040)." *Future Generation Computer Systems,* 81 (2018).
 
 [J1] **Ha M. Do**, Weihua Sheng, and Meiqin Liu. "[Human-assisted sound event recognition for home service robots](https://link.springer.com/article/10.1186/s40638-016-0042-2)." *Robotics and Biomimetics,* 3.1 (2016).
 
