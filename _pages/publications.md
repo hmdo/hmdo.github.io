@@ -14,7 +14,7 @@ B3] **Ha M. Do**, *“Chapter 8 - Programmable Logic Devices, Chapter 9 - Method
 [B1] **Ha M. Do**, *“Fundamental of Electronic Measurement and Instrument,”* The Textbook for students, Published by Information and Library Center of PTIT, 2005 (in Vietnamese).
 
 # Journals  
-[J3] **Ha M. Do**, Minh Pham, Weihua Sheng, Dan Yang, and Meiqin Liu, "[RiSH: A robot-integrated smart home for elderly care.](https://doi.org/10.1016/j.robot.2017.12.008)" *Robotics and Autonomous Systems* 101 (2018).
+[J3] **Ha M. Do**, Minh Pham, Weihua Sheng, Dan Yang, and Meiqin Liu, "[<span style="color:orange">RiSH: A robot-integrated smart home for elderly care.</span>](https://doi.org/10.1016/j.robot.2017.12.008)" *Robotics and Autonomous Systems* 101 (2018).
 
 [J2] Minh Pham, Yehenew Mengistu, **Ha M. Do**, Weihua Sheng, "[Delivering home healthcare through a Cloud-based Smart Home Environment (CoSHE)](https://doi.org/10.1016/j.future.2017.10.040)." *Future Generation Computer Systems,* 81 (2018).
 
