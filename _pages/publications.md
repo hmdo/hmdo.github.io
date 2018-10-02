@@ -13,8 +13,18 @@ B3] **Ha M. Do**, *“Chapter 8 - Programmable Logic Devices, Chapter 9 - Method
 
 [B1] **Ha M. Do**, *“Fundamental of Electronic Measurement and Instrument,”* The Textbook for students, Published by Information and Library Center of PTIT, 2005 (in Vietnamese).
 
-# Journals  
-[J3] **Ha M. Do**, Minh Pham, Weihua Sheng, Dan Yang, and Meiqin Liu, "[<span style="color:orange">RiSH: A robot-integrated smart home for elderly care</span>](https://doi.org/10.1016/j.robot.2017.12.008)" *Robotics and Autonomous Systems* 101 (2018) "[<span style="color:blue">PDF</span>](files/ROBOT_2966_RiSH.pdf).
+# Journals
+[J7] **Ha M. Do**, Weihua Sheng, Erin Harrington, and Alex Bishop, "Clinical screening interview using a social robot for geriatric care," *IEEE Transactions on Automation Science and Engineering*, 2018 (Under Review).
+
+[J6] Minh Pham, **Ha M. Do**, and Weihua Sheng, "Negative emotion management using a smart shirt and a robot assistant,” *IEEE Transactions on Automation Science and Engineering*, 2018 (Under Review).
+
+[J5] **Ha M. Do**, Weihua Sheng, Meiqin Liu, and Yuexian Zou, "SoHAM: A sound-based human
+activity monitoring framework for home service robots," 2018 (prepared manuscript).
+
+[J4] Duy Tran, **Ha M. Do**, Weihua Sheng, He Bai, and Girish Chowdhary, "[<span style="color:orange">Real-time Detection of
+Distracted Driving based on Deep Learning</span>](http://dx.doi.org/10.1049/iet-its.2018.5172)," *IET Intelligent Transport Systems* (2018).
+
+[J3] **Ha M. Do**, Minh Pham, Weihua Sheng, Dan Yang, and Meiqin Liu, "[<span style="color:orange">RiSH: A robot-integrated smart home for elderly care</span>](https://doi.org/10.1016/j.robot.2017.12.008)" *Robotics and Autonomous Systems* 101 (2018).
 
 [J2] Minh Pham, Yehenew Mengistu, **Ha M. Do**, Weihua Sheng, "[<span style="color:orange">Delivering home healthcare through a Cloud-based Smart Home Environment (CoSHE)</span>](https://doi.org/10.1016/j.future.2017.10.040)." *Future Generation Computer Systems,* 81 (2018).
 
