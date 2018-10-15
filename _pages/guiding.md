@@ -24,5 +24,5 @@ author_profile: true
 + How to Read a Paper: [<span style="color:orange">Keshav</span>](https://hmdo.github.io/files/howtoreadapaper.pdf)
 + How to Write a Paper: [<span style="color:orange">Mike Ashby</span>](https://hmdo.github.io/files/howtowriteapaper.pdf)
 + [<span style="color:orange">Advice Collection</span>](http://taoxie.cs.illinois.edu/advice.htm)
-+ [<span style="color:orange">Bad Career</span>](https://hmdo.github.io/files/BadCaeer.pdf)
-+ [<span style="color:orange">Good Career</span>](https://hmdo.github.io/files/GoodCaeer.pdf)
++ [<span style="color:orange">Bad Career</span>](https://hmdo.github.io/files/BadCareer.pdf)
++ [<span style="color:orange">Good Career</span>](https://hmdo.github.io/files/GoodCareer.pdf)
