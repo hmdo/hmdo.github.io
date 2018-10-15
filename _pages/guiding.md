@@ -8,7 +8,7 @@ author_profile: true
 # Useful Links
 
 + [<span style="color:orange">IEEE Robotics & Automation Society</span>](http://www.ieee-ras.org/)
-+ [<span style="color:orange">Robotics Conferences](https://www.conference-service.com/conferences/automation.html)
++ [<span style="color:orange">Robotics Conferences</span>](https://www.conference-service.com/conferences/automation.html)
 + [<span style="color:orange">Top Conferences for Machine Learning & Artificial Intelligence</span>](http://www.guide2research.com/topconf/machine-learning)
 + [<span style="color:orange">Best Paper Awards in Computer Science (Huang, Jeff) (since 1996)</span>](https://jeffhuang.com/best_paper_awards.html)
 
