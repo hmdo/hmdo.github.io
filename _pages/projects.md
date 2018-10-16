@@ -6,26 +6,26 @@ author_profile: true
 ---
 # Current Projects
 ## Research at Oklahoma State University, USA
-* NSF Grant: NRI: Considerate Co-robot Intelligence through Ubiquitous Human State Awareness (NSF #1427345). My role: Research Assistant.
-  * Robot-integrated Smart homes for elderly care
+* NSF Grant: NRI: Considerate Co-robot Intelligence through Ubiquitous Human State Awareness (NSF #1427345). *My role: Research Assistant*.
+  * **Robot-integrated Smart homes for elderly care**
       * Designed and implemented a robot-integrated smart home (RiSH) testbed that consists of a home service robot, a home sensor network, a body sensor network, and a mobile device, cloud servers.
       * The RiSH testbed is employed in developing assistive technologies for the elderly who live independently at home.
-  * Auditory learning for home service robots
+  * **Auditory learning for home service robots**
       * Implemented an auditory perception platform for a home service robot that serves the elderly living alone at home. The robot is able to estimate the sound source position and recognize human speech in the room with multiple sound sources, as well as to collaborate with the caregiver on sound event recognition.
       * Developed context-aware sound event recognition for home service robots using a two-level dynamic Bayesian network (DBN) that models the intra-temporal and inter-temporal constraints among the context and sound events.
-  * Companion Robots for elderly care
+  * **Companion Robots for elderly care**
       * Designed and developed a companion robot for elderly care. The robot has capabilities to assist a older adult at home. It can work as an assistant to answer user’s questions through verbal conversation. It can take photos, record voice and video messages and then send them through emails or post on social networks. It is able to play game with the user. Moreover, It can give cognitive assessment, mood evaluation, health screening, pain evaluation, etc. It can also detect falls and make a video call to the caregiver for assistance.
-  * Socio-emotional maintenance in aging with robotic technology (SMART)
+  * **Socio-emotional maintenance in aging with robotic technology (SMART)**
       * Designed robotics functions for a field test to evaluate socio-emotional maintenance in aging with social robots. Thirty older adults completed a 40-minute interactive section. The robot enables to perform a series of social interactions with each participant (i.e., basic conversational behaviors, answering current time/weather, playing rock-paper-scissors, saying quotes/jokes, and playing music).     
-  * Clinical screening interview using a social robot for geriatric care
-      * Developed a framework that enables social robots to conduct regular clinical screening interviews in geriatric care, such as cognitive assessment, falls risk evaluation, pain rating, health screening, mood evaluation, companionship assessment, memory testing, fatigue, and short blessed testing. We developed a social robot with essential features to enable clinical screening interview, including a conversational interface, face tracking, an interaction handler, attention management, robot skills, and cloud service management. Besides, a general clinical screening interview model (GCIM) is proposed and implemented, which enables the robot to handle the whole interview process. 
+  * **Clinical screening interview using a social robot for geriatric care**
+      * Developed a framework that enables social robots to conduct regular clinical screening interviews in geriatric care, such as cognitive assessment, falls risk evaluation, pain rating, health screening, mood evaluation, companionship assessment, memory testing, fatigue, and short blessed testing. We developed a social robot with essential features to enable clinical screening interview, including a conversational interface, face tracking, an interaction handler, attention management, robot skills, and cloud service management. Besides, a general clinical screening interview model (GCIM) is proposed and implemented, which enables the robot to handle the whole interview process.
 
 # Past Projects
 ## Research at Oklahoma State University, USA
-* NSF Grant: SHB: Type I (EXP): Context-aware Ubiquitous Human Health Monitoring (NSF #1231671). My role: Research Assistant.
-  * Human-robot collaboration in a Mobile Visual Sensor Network
+* NSF Grant: SHB: Type I (EXP): Context-aware Ubiquitous Human Health Monitoring (NSF #1231671). *My role: Research Assistant.*
+  * **Human-robot collaboration in a Mobile Visual Sensor Network**
     * Developed a framework for human-robot collaboration in a Mobile Visual Sensor Network (MVSN). A collaborative architecture for the proposed human-integrated MVSN was developed to allow the human operator and robots to collaborate to perform surveillance tasks.
-  * An Open Platform Telepresence Robot with Natural Human Interface
+  * **An Open Platform Telepresence Robot with Natural Human Interface**
     * Developed an open platform telepresence robot, which uses an iRobot Create, ROS (Robot Operating System) and mobile devices. Besides using existing ROS packages we developed an Android application based on rosjava_core and android_core to control and view a live video stream from the remote robot. The robot could be used to have a video conference with people at a remote location. It is also equipped with capabilities such as autonomous navigation, hand-gesture recognition, and speech recognition through cloud computing services provided by Google.
 
 ## Research at Posts and Telecommunications Institute of Technology, Vietnam
