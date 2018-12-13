@@ -8,14 +8,11 @@ redirect_from:
 ---
 Education
 =========
-* Ph.D in Electrical Engineering, Oklahoma State University, USA, May 2018 (Expected).
+* Ph.D in Electrical Engineering, Oklahoma State University, USA, Dec. 2018.
   * Thesis: “Robot-assisted elderly care in smart homes”.
-  * GPA: 3.9/4.0    
 * M.Sc in Electrical Engineering, Oklahoma State University, USA, May 2015.
-  * Thesis: “Developing a home service robot platform for smart homes”.
-  * GPA: 3.875/4.0      
+  * Thesis: “Developing a home service robot platform for smart homes”.  
 * B.S. in Electronics and Telecommunications, Hanoi University of Science and Technology (HUST), Vietnam, May 1999
-  * GPA: 7.67/10, Graduated 5th in the class of 120.
 
 Working Experiences
 ======
