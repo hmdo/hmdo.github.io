@@ -5,8 +5,15 @@ permalink: /projects/
 author_profile: true
 ---
 # Current Projects
+## Colorado State University-Pueblo, USA
+* Communities to Build Active STEM Engagement (CBASE) Grant 5322022
+* **Robot assistants for home healthcare**
+
 ## Research at Oklahoma State University, USA
-* NSF Grant: NRI: Considerate Co-robot Intelligence through Ubiquitous Human State Awareness (NSF #1427345). *My role: Research Assistant*.
+* NSF Grant: FW-HTF-P: Robotic Health Assistants: A New Human-Machine Partnership in Home Healthcare (EHR/DUE/1928711). *My role: Research Consultant.
+* NSF Grant: RI: Small: Enabling Sound-based Human Activity Monitoring for Home Service Robots (CISE/IIS/1928711). *My role: Research Consultant.
+ 
+* NSF Grant: NRI: Considerate Co-robot Intelligence through Ubiquitous Human State Awareness (NSF #1427345). *My role: Research Associate*.
   * **Robot-integrated Smart homes for elderly care**
       * Designed and implemented a robot-integrated smart home (RiSH) testbed that consists of a home service robot, a home sensor network, a body sensor network, and a mobile device, cloud servers.
       * The RiSH testbed is employed in developing assistive technologies for the elderly who live independently at home.
