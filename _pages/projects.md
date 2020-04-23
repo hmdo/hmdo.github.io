@@ -6,8 +6,8 @@ author_profile: true
 ---
 # Current Projects
 ## Colorado State University-Pueblo, USA
-* Communities to Build Active STEM Engagement (CBASE) Grant 5322022
-* **Robot assistants for home healthcare**
+* Communities to Build Active STEM Engagement (CBASE Grant #5322022)
+  * **Robot assistants for home healthcare**
 
 ## Research at Oklahoma State University, USA
 * NSF Grant: FW-HTF-P: Robotic Health Assistants: A New Human-Machine Partnership in Home Healthcare (EHR/DUE/1928711). *My role: Research Consultant.
