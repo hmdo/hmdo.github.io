@@ -10,8 +10,8 @@ author_profile: true
   * **Robot assistants for home healthcare**
 
 ## Research at Oklahoma State University, USA
-* NSF Grant: FW-HTF-P: Robotic Health Assistants: A New Human-Machine Partnership in Home Healthcare (EHR/DUE/1928711). *My role: Research Consultant.
-* NSF Grant: RI: Small: Enabling Sound-based Human Activity Monitoring for Home Service Robots (CISE/IIS/1928711). *My role: Research Consultant.
+* NSF Grant: FW-HTF-P: Robotic Health Assistants: A New Human-Machine Partnership in Home Healthcare (EHR/DUE/1928711). *My role: Research Consultant*.
+* NSF Grant: RI: Small: Enabling Sound-based Human Activity Monitoring for Home Service Robots (CISE/IIS/1928711). *My role: Research Consultant*.
  
 * NSF Grant: NRI: Considerate Co-robot Intelligence through Ubiquitous Human State Awareness (NSF #1427345). *My role: Research Associate*.
   * **Robot-integrated Smart homes for elderly care**
