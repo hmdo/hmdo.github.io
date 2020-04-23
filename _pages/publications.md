@@ -14,12 +14,10 @@ B3] **Ha M. Do**, *“Chapter 8 - Programmable Logic Devices, Chapter 9 - Method
 [B1] **Ha M. Do**, *“Fundamental of Electronic Measurement and Instrument,”* The Textbook for students, Published by Information and Library Center of PTIT, 2005 (in Vietnamese).
 
 # Journals
-[J7] **Ha M. Do**, Weihua Sheng, Erin Harrington, and Alex Bishop, "Clinical screening interview using a social robot for geriatric care," *IEEE Transactions on Automation Science and Engineering*, 2018 (Under Review).
-
-[J6] Minh Pham, **Ha M. Do**, and Weihua Sheng, "Negative emotion management using a smart shirt and a robot assistant,” *IEEE Transactions on Automation Science and Engineering*, 2018 (Under Review).
+[J6] **Ha M. Do**, Weihua Sheng, Erin Harrington, and Alex Bishop, "Clinical screening interview using a social robot for geriatric care," *IEEE Transactions on Automation Science and Engineering*, 2020 (Conditionally Accepted).
 
 [J5] **Ha M. Do**, Weihua Sheng, Meiqin Liu, and Yuexian Zou, "SoHAM: A sound-based human
-activity monitoring framework for home service robots," 2018 (prepared manuscript).
+activity monitoring framework for home service robots," *IEEE Transactions on Automation Science and Engineering*, 2020 (Under Review).
 
 [J4] Duy Tran, **Ha M. Do**, Weihua Sheng, He Bai, and Girish Chowdhary, "[<span style="color:orange">Real-time Detection of
 Distracted Driving based on Deep Learning</span>](http://dx.doi.org/10.1049/iet-its.2018.5172)," *IET Intelligent Transport Systems* (2018).
@@ -31,6 +29,8 @@ Distracted Driving based on Deep Learning</span>](http://dx.doi.org/10.1049/iet-
 [J1] **Ha M. Do**, Weihua Sheng, and Meiqin Liu. "[<span style="color:orange">Human-assisted sound event recognition for home service robots</span>](https://link.springer.com/article/10.1186/s40638-016-0042-2)." *Robotics and Biomimetics,* 3.1 (2016).
 
 # Conferences
+[C15] Erin Harrington, **Ha M. Do**, Alex J. Bishop, Celinda Reese-Melancon, Weihua Sheng, "[<span style="color:orange">Examining discrepancies in social robot versus human assessments of geriatric well-being</span>](https://doi.org/10.1093/geroni/igz038.1199),” *Innovation in Aging*, Volume 3, Issue Supplement_1, 2019.		
+
 [C14] Erin Harrington, **Ha M. Do**, G. McCall, E. Boevers, Alex J. Bishop, Weihua Sheng, "[<span style="color:orange">Older adult interaction with social robots: Implications for socio-emotional well-being</span>](https://doi.org/10.4017/gt.2018.17.s.117.00
 )," *11th World Conference of Gerontechnology*, May, 2018.   
 
