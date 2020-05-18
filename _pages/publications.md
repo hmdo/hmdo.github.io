@@ -14,7 +14,7 @@ B3] **Ha M. Do**, *“Chapter 8 - Programmable Logic Devices, Chapter 9 - Method
 [B1] **Ha M. Do**, *“Fundamental of Electronic Measurement and Instrument,”* The Textbook for students, Published by Information and Library Center of PTIT, 2005 (in Vietnamese).
 
 # Journals
-[J6] **Ha M. Do**, Weihua Sheng, Erin Harrington, and Alex Bishop, "Clinical screening interview using a social robot for geriatric care," *IEEE Transactions on Automation Science and Engineering*, 2020 (Conditionally Accepted).
+[J6] **Ha M. Do**, Weihua Sheng, Erin Harrington, and Alex Bishop, "Clinical screening interview using a social robot for geriatric care," *IEEE Transactions on Automation Science and Engineering*, 2020 (Accepted).
 
 [J5] **Ha M. Do**, Weihua Sheng, Meiqin Liu, and Yuexian Zou, "SoHAM: A sound-based human
 activity monitoring framework for home service robots," *IEEE Transactions on Automation Science and Engineering*, 2020 (Under Review).
