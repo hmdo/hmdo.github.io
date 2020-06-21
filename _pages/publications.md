@@ -17,7 +17,7 @@ B3] **Ha M. Do**, *“Chapter 8 - Programmable Logic Devices, Chapter 9 - Method
 [J6] **Ha M. Do**, Weihua Sheng, Meiqin Liu, and Yuexian Zou, "SoHAM: A sound-based human
 activity monitoring framework for home service robots," *IEEE Transactions on Automation Science and Engineering*, 2020 (Under Review).
 
-[J5] **Ha M. Do**, Weihua Sheng, Erin Harrington, and Alex Bishop, "[<span style="color:orange">Clinical screening interview using a social robot for geriatric care</span>]({https://doi.org/10.1109/TASE.2020.2999203)," *IEEE Transactions on Automation Science and Engineering*, 2020.
+[J5] **Ha M. Do**, Weihua Sheng, Erin Harrington, and Alex Bishop, "[<span style="color:orange">Clinical screening interview using a social robot for geriatric care</span>](https://doi.org/10.1109/TASE.2020.2999203)," *IEEE Transactions on Automation Science and Engineering*, 2020.
 
 [J4] Duy Tran, **Ha M. Do**, Weihua Sheng, He Bai, and Girish Chowdhary, "[<span style="color:orange">Real-time Detection of
 Distracted Driving based on Deep Learning</span>](http://dx.doi.org/10.1049/iet-its.2018.5172)," *IET Intelligent Transport Systems* (2018).
