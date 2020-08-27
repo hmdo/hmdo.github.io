@@ -5,20 +5,20 @@ permalink: /projects/
 author_profile: true
 ---
 # Current Projects
-## Research at the University of Louisville, USA
+## University of Louisville, USA
 * NSF Grant: SCH: INT: Adaptive Partnership for the Robotic Treatment of Autism (#1838808). *My role: Post-doctoral Researcher*.
 * NSF Grant: RII Track-1: Kentucky Advanced Manufacturing Partnership for Enhanced Robotics and Structures (#1849213). *My role: Post-doctoral Researcher*.
 
-## Research at Oklahoma State University, USA
-* NSF Grant: FW-HTF-P: Robotic Health Assistants: A New Human-Machine Partnership in Home Healthcare (EHR/DUE/1928711). *My role: Research Consultant*.
-* NSF Grant: RI: Small: Enabling Sound-based Human Activity Monitoring for Home Service Robots (CISE/IIS/1928711). *My role: Research Consultant*.
- 
 # Past Projects
 ## Colorado State University-Pueblo, USA
 * Communities to Build Active STEM Engagement (CBASE Grant #5322022), *My role: Research Consultant*.
   * **Robot assistants for home healthcare**
   
-## Research at Oklahoma State University, USA
+## Oklahoma State University, USA
+* NSF Grant: FW-HTF-P: Robotic Health Assistants: A New Human-Machine Partnership in Home Healthcare (EHR/DUE/1928711). *My role: Research Consultant*.
+
+* NSF Grant: RI: Small: Enabling Sound-based Human Activity Monitoring for Home Service Robots (CISE/IIS/1928711). *My role: Research Consultant*.
+
 * NSF Grant: NRI: Considerate Co-robot Intelligence through Ubiquitous Human State Awareness (NSF #1427345). *My role: Research Associate*.
   * **Robot-integrated Smart homes for elderly care**
       * Designed and implemented a robot-integrated smart home (RiSH) testbed that consists of a home service robot, a home sensor network, a body sensor network, and a mobile device, cloud servers.
