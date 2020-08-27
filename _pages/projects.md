@@ -5,14 +5,19 @@ permalink: /projects/
 author_profile: true
 ---
 # Current Projects
-## Colorado State University-Pueblo, USA
-* Communities to Build Active STEM Engagement (CBASE Grant #5322022)
-  * **Robot assistants for home healthcare**
+## Research at the University of Louisville, USA
+* NSF Grant: SCH: INT: Adaptive Partnership for the Robotic Treatment of Autism (#1838808). *My role: Post-doctoral Researcher*.
+* NSF Grant: RII Track-1: Kentucky Advanced Manufacturing Partnership for Enhanced Robotics and Structures (#1849213). *My role: Post-doctoral Researcher*.
 
 ## Research at Oklahoma State University, USA
 * NSF Grant: FW-HTF-P: Robotic Health Assistants: A New Human-Machine Partnership in Home Healthcare (EHR/DUE/1928711). *My role: Research Consultant*.
 * NSF Grant: RI: Small: Enabling Sound-based Human Activity Monitoring for Home Service Robots (CISE/IIS/1928711). *My role: Research Consultant*.
  
+# Past Projects
+## Colorado State University-Pueblo, USA
+* Communities to Build Active STEM Engagement (CBASE Grant #5322022), *My role: Research Consultant*.
+  * **Robot assistants for home healthcare**
+## Research at Oklahoma State University, USA
 * NSF Grant: NRI: Considerate Co-robot Intelligence through Ubiquitous Human State Awareness (NSF #1427345). *My role: Research Associate*.
   * **Robot-integrated Smart homes for elderly care**
       * Designed and implemented a robot-integrated smart home (RiSH) testbed that consists of a home service robot, a home sensor network, a body sensor network, and a mobile device, cloud servers.
@@ -26,9 +31,7 @@ author_profile: true
       * Designed robotics functions for a field test to evaluate socio-emotional maintenance in aging with social robots. Thirty older adults completed a 40-minute interactive section. The robot enables to perform a series of social interactions with each participant (i.e., basic conversational behaviors, answering current time/weather, playing rock-paper-scissors, saying quotes/jokes, and playing music).     
   * **Clinical screening interview using a social robot for geriatric care**
       * Developed a framework that enables social robots to conduct regular clinical screening interviews in geriatric care, such as cognitive assessment, falls risk evaluation, pain rating, health screening, mood evaluation, companionship assessment, memory testing, fatigue, and short blessed testing. We developed a social robot with essential features to enable clinical screening interview, including a conversational interface, face tracking, an interaction handler, attention management, robot skills, and cloud service management. Besides, a general clinical screening interview model (GCIM) is proposed and implemented, which enables the robot to handle the whole interview process.
-
-# Past Projects
-## Research at Oklahoma State University, USA
+      
 * NSF Grant: SHB: Type I (EXP): Context-aware Ubiquitous Human Health Monitoring (NSF #1231671). *My role: Research Assistant.*
   * **Human-robot collaboration in a Mobile Visual Sensor Network**
     * Developed a framework for human-robot collaboration in a Mobile Visual Sensor Network (MVSN). A collaborative architecture for the proposed human-integrated MVSN was developed to allow the human operator and robots to collaborate to perform surveillance tasks.
