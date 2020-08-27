@@ -17,6 +17,7 @@ author_profile: true
 ## Colorado State University-Pueblo, USA
 * Communities to Build Active STEM Engagement (CBASE Grant #5322022), *My role: Research Consultant*.
   * **Robot assistants for home healthcare**
+  
 ## Research at Oklahoma State University, USA
 * NSF Grant: NRI: Considerate Co-robot Intelligence through Ubiquitous Human State Awareness (NSF #1427345). *My role: Research Associate*.
   * **Robot-integrated Smart homes for elderly care**
