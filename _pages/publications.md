@@ -14,8 +14,10 @@ B3] **Ha M. Do**, *“Chapter 8 - Programmable Logic Devices, Chapter 9 - Method
 [B1] **Ha M. Do**, *“Fundamental of Electronic Measurement and Instrument,”* The Textbook for students, Published by Information and Library Center of PTIT, 2005 (in Vietnamese).
 
 # Journals
-[J6] **Ha M. Do**, Weihua Sheng, Meiqin Liu, and Yuexian Zou, "SoHAM: A sound-based human
+[J7] **Ha M. Do**, Weihua Sheng, Meiqin Liu, and Yuexian Zou, "SoHAM: A sound-based human
 activity monitoring framework for home service robots," *IEEE Transactions on Automation Science and Engineering*, 2020 (Under Review).
+
+[J6] Jianhao Du, **Ha M. Do**, Weihua Sheng, "Human-Robot Collaborative Control in a Virtual-Reality-based Telepresence System," *International Journal of Social Robotics*, 2020 (Accepted).
 
 [J5] **Ha M. Do**, Weihua Sheng, Erin Harrington, and Alex Bishop, "[<span style="color:orange">Clinical screening interview using a social robot for geriatric care</span>](https://doi.org/10.1109/TASE.2020.2999203)," *IEEE Transactions on Automation Science and Engineering*, 2020.
 
@@ -29,6 +31,9 @@ Distracted Driving based on Deep Learning</span>](http://dx.doi.org/10.1049/iet-
 [J1] **Ha M. Do**, Weihua Sheng, and Meiqin Liu. "[<span style="color:orange">Human-assisted sound event recognition for home service robots</span>](https://link.springer.com/article/10.1186/s40638-016-0042-2)." *Robotics and Biomimetics,* 3.1 (2016).
 
 # Conferences
+
+[C16] Duy Tran, **Ha M. Do**, Jiaxing Lu, Weihua Sheng, "Real-Time Detection of Distracted Driving Using Dual Cameras." *Intelligent Robots and Systems (IROS), 2020 IEEE/RSJ International Conference on*. 2020.
+
 [C15] Erin Harrington, **Ha M. Do**, Alex J. Bishop, Celinda Reese-Melancon, Weihua Sheng, "[<span style="color:orange">Examining discrepancies in social robot versus human assessments of geriatric well-being</span>](https://doi.org/10.1093/geroni/igz038.1199),” *Innovation in Aging*, Volume 3, Issue Supplement_1, 2019.		
 
 [C14] Erin Harrington, **Ha M. Do**, G. McCall, E. Boevers, Alex J. Bishop, Weihua Sheng, "[<span style="color:orange">Older adult interaction with social robots: Implications for socio-emotional well-being</span>](https://doi.org/10.4017/gt.2018.17.s.117.00
