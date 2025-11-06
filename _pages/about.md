@@ -11,11 +11,12 @@ redirect_from:
 
 I’m **Ha Manh Do**, a **Principal Machine Learning Engineer and applied AI researcher** at Righ, Inc. I am passionate about building intelligent systems that bridge machine learning, AI, robotics, and smart-home intelligence to create real-world impact in everyday life.
 
-Over the past decade, I’ve led and contributed to advanced R&D and product engineering across **agentic AI, LLMs, machine learning engineering, robot perception, and smart environments**, delivering innovation from academic labs to commercial scale.
+Over a decade of experience spanning circuit design, semiconductor devices, robotics perception, and smart-home intelligence, with a recent focus on agentic
+AI and small language models on the edge. I’ve led and contributed to advanced R&D and product engineering across **agentic AI, LLMs, machine learning engineering, robot perception, and smart environments**, delivering innovation from academic labs to commercial scale.
 
 Previously, I served as a Senior Machine Learning Engineer at Plume Design, where I shipped **edge-AI and cloud-AI solutions powering adaptive Wi-Fi, smart-home intelligence, and motion-sensing systems** deployed worldwide.
 
-Before industry, I conducted research in **circuit design, FPGA systems, mobile robotics, human-robot interaction, and socially assistive robotics** at Hanoi University of Science and Technology (HUST), Oklahoma State University (OSU), Colorado State University Pueblo, University of Louisville - LARRI Robotics Institute.
+Before industry, I conducted research in **circuit design, FPGA systems, mobile robotics, human-robot interaction, and socially assistive robotics** at Hanoi University of Science and Technology (HUST), Posts and Telecommunications Institude of Technology (PTIT), Oklahoma State University (OSU), Colorado State University Pueblo, and University of Louisville - LARRI Robotics Institute.
 
 I hold a **Ph.D. in Electrical Engineering (Robotics Perception)** and an M.S. in Control Systems from OSU, and a B.S. in Electronics & Computer Engineering from HUST.
 
@@ -28,6 +29,7 @@ I hold a **Ph.D. in Electrical Engineering (Robotics Perception)** and an M.S. i
 - Small & Large Language Models for Edge & Cloud  
 - Robotics Perception & Human-Robot Interaction  
 - Embedded AI for Intelligent Homes, Safety & Well-Being  
+- Semiconductor & FPGA Systems
 - Multi-Agent Systems & Real-Time Inference Pipelines  
 
 ---
