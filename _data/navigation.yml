@@ -2,7 +2,7 @@
 main:
   #- title: "About me"
   #  url: /about/
-  - title: "Experience"
+  - title: "Experiences"
     url: /projects/
 
   - title: "Publications"
@@ -13,9 +13,6 @@ main:
 
   - title: "Blog Posts"
     url: /year-archive/
-
-  - title: "CV"
-    url: https://hmdo.github.io/files/HaDo_CV_2020_6.pdf
 
   - title: "Guiding"
     url: /guiding/

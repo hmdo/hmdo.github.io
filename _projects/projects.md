@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Experiences"
 collection: projects
 type: "Conference proceedings talk"
 permalink: /projects/projects

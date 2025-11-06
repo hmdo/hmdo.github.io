@@ -5,34 +5,44 @@ permalink: /publications/
 author_profile: true
 ---
 # Books/Chapters
-[B4] **Ha M. Do**, *“Chapter 2 - Programmable Logic Device, Chapter 3 – Fundamental of VHDL, Chapter 4 – VHDL-based Logic Design Methodologies, Chapter 5 – Case studies in  Design of FPGA-based Digital System with VHDL,”* Digital Logic Design, The Textbook for students, Published by Information and Library Center of Posts and Telecommunications Institute of Technology (PTIT), Nov. 2010 (in Vietnamese).
+[B4] **Ha M. Do**, *“Chapter 2 - Programmable Logic Device, Chapter 3 – Fundamental of VHDL, Chapter 4 – VHDL-based Logic Design Methodologies, Chapter 5 – Case studies in  Design of FPGA-based Digital System with VHDL,”* Digital Logic Design, The Textbook for students, Information and Communications Publishing House, 2019 (in Vietnamese).
 
-B3] **Ha M. Do**, *“Chapter 8 - Programmable Logic Devices, Chapter 9 - Methodologies of Digital System Design with VHDL,”* Digital Electronics, Published by Posts and Telematics Publishing House, Vietnam, Mar. 2009 (in Vietnamese).
+[B3] **Ha M. Do**, *“Chapter 8 - Programmable Logic Devices, Chapter 9 - Methodologies of Digital System Design with VHDL,”* Digital Electronics, The Textbook for students, Information and Communications Publishing House, Vietnam, Mar. 2017 (in Vietnamese).
 
-[B2] **Ha M. Do**, *“Semiconductor Devices,”* The Textbook for students, Published by Information and Library Center of Posts and Telecommunications Institute of Technology (PTIT), 2007 (in Vietnamese).
+[B2] **Ha M. Do**, *“Semiconductor Devices,”* The Textbook for students, Information and Communications Publishing House, 2015 (in Vietnamese).
 
-[B1] **Ha M. Do**, *“Fundamental of Electronic Measurement and Instrument,”* The Textbook for students, Published by Information and Library Center of PTIT, 2005 (in Vietnamese).
+[B1] **Ha M. Do**, *“Fundamental of Electronic Measurement and Instrument,”* The Textbook for students, Information and Communications Publishing House, 2009 (in Vietnamese).
 
 # Journals
-[J7] **Ha M. Do**, Weihua Sheng, Meiqin Liu, and Yuexian Zou, "SoHAM: A sound-based human
-activity monitoring framework for home service robots," *IEEE Transactions on Automation Science and Engineering*, 2020 (Under Review).
 
-[J6] Jianhao Du, **Ha M. Do**, Weihua Sheng, "Human-Robot Collaborative Control in a Virtual-Reality-based Telepresence System," *International Journal of Social Robotics*, 2020 (Accepted).
+[J11] Karla C. Welch, Robert Pennington, Saipruthvi Vanaparthy, **Ha M. Do**, Rohit Narayanan, Dan Popa, Gregory Barnes, and Grace Kuravackel, "[<span style="color:orange">Using physiological signals and machine learning algorithms to measure attentiveness during robot-assisted social skills intervention: A case study of two children with autism spectrum disorder](https://par.nsf.gov/servlets/purl/10464878)," *IEEE Instrumentation & Measurement Magazine*, 2023.
 
-[J5] **Ha M. Do**, Weihua Sheng, Erin Harrington, and Alex Bishop, "[<span style="color:orange">Clinical screening interview using a social robot for geriatric care</span>](https://doi.org/10.1109/TASE.2020.2999203)," *IEEE Transactions on Automation Science and Engineering*, 2020.
+[J10] Erin E. Harrington, Alex J. Bishop, **Ha M. Do**, and Weihua Sheng. "[<span style="color:orange">Perceptions of socially assistive robots: a pilot study exploring older adults’ concerns](https://par.nsf.gov/servlets/purl/10221566)," *Current Psychology*, 2023.
+
+[J9] **Ha M. Do**, Karla C. Welch, and Weihua Sheng, "[<span style="color:orange">SoHAM: A sound-based human activity monitoring framework for home service robots](https://par.nsf.gov/servlets/purl/10293409)," *IEEE Transactions on Automation Science and Engineering*, 2021.
+
+[J8] Minh Pham, Ha M. Do, Zhidong Su, Alex Bishop, and Weihua Sheng, "[<span style="color:orange">Negative emotion management using a smart shirt and a robot assistant](https://par.nsf.gov/servlets/purl/10221828)," IEEE Robotics and Automation Letters, 2021.
+
+[J7] Zhidong Su, Fei Liang, **Ha M. Do**, Alex Bishop, Barbara Carlson, and Weihua Sheng, "[<span style="color:orange">Conversation-based medication management system for older adults using a companion robot and cloud](https://par.nsf.gov/servlets/purl/10221829)" IEEE Robotics and Automation Letters, 2021.
+
+[J6] Jianhao Du, **Ha M. Do**, Weihua Sheng, "[<span style="color:orange">Human-Robot Collaborative Control in a Virtual-Reality-based Telepresence System](https://par.nsf.gov/servlets/purl/10221567)," *International Journal of Social Robotics*, 2020.
+
+[J5] **Ha M. Do**, Weihua Sheng, Erin Harrington, and Alex Bishop, "[<span style="color:orange">Clinical screening interview using a social robot for geriatric care</span>](https://par.nsf.gov/servlets/purl/10195333)," *IEEE Transactions on Automation Science and Engineering*, 2020.
 
 [J4] Duy Tran, **Ha M. Do**, Weihua Sheng, He Bai, and Girish Chowdhary, "[<span style="color:orange">Real-time Detection of
 Distracted Driving based on Deep Learning</span>](http://dx.doi.org/10.1049/iet-its.2018.5172)," *IET Intelligent Transport Systems* (2018).
 
-[J3] **Ha M. Do**, Minh Pham, Weihua Sheng, Dan Yang, and Meiqin Liu, "[<span style="color:orange">RiSH: A robot-integrated smart home for elderly care</span>](https://doi.org/10.1016/j.robot.2017.12.008)" *Robotics and Autonomous Systems* 101 (2018).
+[J3] **Ha M. Do**, Minh Pham, Weihua Sheng, Dan Yang, and Meiqin Liu, "[<span style="color:orange">RiSH: A robot-integrated smart home for elderly care</span>](https://doi.org/10.1016/j.robot.2017.12.008)," *Robotics and Autonomous Systems* 101 (2018).
 
 [J2] Minh Pham, Yehenew Mengistu, **Ha M. Do**, Weihua Sheng, "[<span style="color:orange">Delivering home healthcare through a Cloud-based Smart Home Environment (CoSHE)</span>](https://doi.org/10.1016/j.future.2017.10.040)." *Future Generation Computer Systems,* 81 (2018).
 
-[J1] **Ha M. Do**, Weihua Sheng, and Meiqin Liu. "[<span style="color:orange">Human-assisted sound event recognition for home service robots</span>](https://link.springer.com/article/10.1186/s40638-016-0042-2)." *Robotics and Biomimetics,* 3.1 (2016).
+[J1] **Ha M. Do**, Weihua Sheng, and Meiqin Liu, "[<span style="color:orange">Human-assisted sound event recognition for home service robots</span>](https://link.springer.com/article/10.1186/s40638-016-0042-2)," *Robotics and Biomimetics,* 3.1 (2016).
 
 # Conferences
 
-[C16] Duy Tran, **Ha M. Do**, Jiaxing Lu, Weihua Sheng, "Real-Time Detection of Distracted Driving Using Dual Cameras." *Intelligent Robots and Systems (IROS), 2020 IEEE/RSJ International Conference on*. 2020.
+[C17] Thanh Thieu, **Ha M. Do**, Thanh Duong, Shi Pu, Sathyanarayanan Aakur, and Saad Khan, "[<span style="color:orange">LexDivPara: A Measure of Paraphrase Quality with Integrated Sentential Lexical Complexity](https://link.springer.com/chapter/10.1007/978-3-030-82199-9_1)," In Proceedings of SAI Intelligent Systems Conference,Springer International Publishing, 2021.
+
+[C16] Duy Tran, **Ha M. Do**, Jiaxing Lu, Weihua Sheng, "[<span style="color:orange">Real-Time Detection of Distracted Driving Using Dual Cameras](https://doi.org/10.1049/iet-its.2018.5172)," *Intelligent Robots and Systems (IROS), 2020 IEEE/RSJ International Conference on*. 2020.
 
 [C15] Erin Harrington, **Ha M. Do**, Alex J. Bishop, Celinda Reese-Melancon, Weihua Sheng, "[<span style="color:orange">Examining discrepancies in social robot versus human assessments of geriatric well-being</span>](https://doi.org/10.1093/geroni/igz038.1199),” *Innovation in Aging*, Volume 3, Issue Supplement_1, 2019.		
 
@@ -65,7 +75,9 @@ Distracted Driving based on Deep Learning</span>](http://dx.doi.org/10.1049/iet-
 
 [C1] Hieu T. Nguyen, **Ha M. Do**, Bac H. Dang, Quang S. Dinh, and Minh. N. Nguyen, “A Development of the Digital Cable Faulty Detection and Measurement System”, in *36th AIC*, Manila, Philippines, 2007.
 
-# Posters and Presentations
+# Posters and 
+[P3] Karla C. Welch, Natalie Warning, Rohit Narayanan, Prasad Nethala, Ha M. Do, Saipruthvi Vanaparthy, Shaye Allen, and Sabrina Daisey, “[<span style="color:orange">First impressions of a NAO robot: evaluating emotions through E4 data and questionnaires](https://par.nsf.gov/servlets/purl/10355841)," In Conference of the International Society for Research on Emotion (ISRE). 2022.
+
 [P2] **Ha M. Do**, “Sound-based human activity monitoring for home service robots”, NSF Doctoral Consortium meeting, *Automation Science and Engineering (CASE), 2016 IEEE International Conference on*. 2016
 
 [P1] **Ha M. Do** and Bac H. Dang, “Educating, training, and building human resources for electronics design in Vietnam”, *Report presented at Conference in Convergence of Digital Technology: IT, Telecommunication and Electronics organized by IDG and MIC in Vietnam Consumer Electronics Expo*, Hanoi, Vietnam, Apr. 2008.
