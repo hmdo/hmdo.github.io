@@ -15,17 +15,17 @@ author_profile: true
 
 # Journals
 
-[J11] Karla C. Welch, Robert Pennington, Saipruthvi Vanaparthy, **Ha M. Do**, Rohit Narayanan, Dan Popa, Gregory Barnes, and Grace Kuravackel, "[<span style="color:orange">Using physiological signals and machine learning algorithms to measure attentiveness during robot-assisted social skills intervention: A case study of two children with autism spectrum disorder](https://par.nsf.gov/servlets/purl/10464878)," *IEEE Instrumentation & Measurement Magazine*, 2023.
+[J11] Karla C. Welch, Robert Pennington, Saipruthvi Vanaparthy, **Ha M. Do**, Rohit Narayanan, Dan Popa, Gregory Barnes, and Grace Kuravackel, "[<span style="color:orange">Using physiological signals and machine learning algorithms to measure attentiveness during robot-assisted social skills intervention: A case study of two children with autism spectrum disorder</span>](https://par.nsf.gov/servlets/purl/10464878)," *IEEE Instrumentation & Measurement Magazine*, 2023.
 
-[J10] Erin E. Harrington, Alex J. Bishop, **Ha M. Do**, and Weihua Sheng. "[<span style="color:orange">Perceptions of socially assistive robots: a pilot study exploring older adults’ concerns](https://par.nsf.gov/servlets/purl/10221566)," *Current Psychology*, 2023.
+[J10] Erin E. Harrington, Alex J. Bishop, **Ha M. Do**, and Weihua Sheng. "[<span style="color:orange">Perceptions of socially assistive robots: a pilot study exploring older adults’ concerns</span>](https://par.nsf.gov/servlets/purl/10221566)," *Current Psychology*, 2023.
 
-[J9] **Ha M. Do**, Karla C. Welch, and Weihua Sheng, "[<span style="color:orange">SoHAM: A sound-based human activity monitoring framework for home service robots](https://par.nsf.gov/servlets/purl/10293409)," *IEEE Transactions on Automation Science and Engineering*, 2021.
+[J9] **Ha M. Do**, Karla C. Welch, and Weihua Sheng, "[<span style="color:orange">SoHAM: A sound-based human activity monitoring framework for home service robots</span>](https://par.nsf.gov/servlets/purl/10293409)," *IEEE Transactions on Automation Science and Engineering*, 2021.
 
-[J8] Minh Pham, Ha M. Do, Zhidong Su, Alex Bishop, and Weihua Sheng, "[<span style="color:orange">Negative emotion management using a smart shirt and a robot assistant](https://par.nsf.gov/servlets/purl/10221828)," IEEE Robotics and Automation Letters, 2021.
+[J8] Minh Pham, Ha M. Do, Zhidong Su, Alex Bishop, and Weihua Sheng, "[<span style="color:orange">Negative emotion management using a smart shirt and a robot assistant</span>](https://par.nsf.gov/servlets/purl/10221828)," IEEE Robotics and Automation Letters, 2021.
 
-[J7] Zhidong Su, Fei Liang, **Ha M. Do**, Alex Bishop, Barbara Carlson, and Weihua Sheng, "[<span style="color:orange">Conversation-based medication management system for older adults using a companion robot and cloud](https://par.nsf.gov/servlets/purl/10221829)" IEEE Robotics and Automation Letters, 2021.
+[J7] Zhidong Su, Fei Liang, **Ha M. Do**, Alex Bishop, Barbara Carlson, and Weihua Sheng, "[<span style="color:orange">Conversation-based medication management system for older adults using a companion robot and cloud</span>](https://par.nsf.gov/servlets/purl/10221829)" IEEE Robotics and Automation Letters, 2021.
 
-[J6] Jianhao Du, **Ha M. Do**, Weihua Sheng, "[<span style="color:orange">Human-Robot Collaborative Control in a Virtual-Reality-based Telepresence System](https://par.nsf.gov/servlets/purl/10221567)," *International Journal of Social Robotics*, 2020.
+[J6] Jianhao Du, **Ha M. Do**, Weihua Sheng, "[<span style="color:orange">Human-Robot Collaborative Control in a Virtual-Reality-based Telepresence System</span>](https://par.nsf.gov/servlets/purl/10221567)," *International Journal of Social Robotics*, 2020.
 
 [J5] **Ha M. Do**, Weihua Sheng, Erin Harrington, and Alex Bishop, "[<span style="color:orange">Clinical screening interview using a social robot for geriatric care</span>](https://par.nsf.gov/servlets/purl/10195333)," *IEEE Transactions on Automation Science and Engineering*, 2020.
 
