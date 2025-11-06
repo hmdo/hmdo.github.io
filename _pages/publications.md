@@ -4,14 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# Patents
+Co-author of **6 pending patents** in Wi-Fi sensing systems, smart-home intelligence, distributed agentic AI platforms, and wearable vision systems.
+
+
 # Books/Chapters
-[B4] **Ha M. Do**, *“Chapter 2 - Programmable Logic Device, Chapter 3 – Fundamental of VHDL, Chapter 4 – VHDL-based Logic Design Methodologies, Chapter 5 – Case studies in  Design of FPGA-based Digital System with VHDL,”* Digital Logic Design, The Textbook for students, Information and Communications Publishing House, 2019 (in Vietnamese).
+[B4] **Ha M. Do**, *“Chapter 2 - Programmable Logic Device, Chapter 3 – Fundamental of VHDL, Chapter 4 – VHDL-based Logic Design Methodologies, Chapter 5 – Case studies in  Design of FPGA-based Digital System with VHDL,”* Digital Logic Design, Information and Communications Publishing House, 2019 (in Vietnamese).
 
-[B3] **Ha M. Do**, *“Chapter 8 - Programmable Logic Devices, Chapter 9 - Methodologies of Digital System Design with VHDL,”* Digital Electronics, The Textbook for students, Information and Communications Publishing House, Vietnam, Mar. 2017 (in Vietnamese).
+[B3] **Ha M. Do**, *“Chapter 8 - Programmable Logic Devices, Chapter 9 - Methodologies of Digital System Design with VHDL,”* Digital Electronics, Information and Communications Publishing House, Vietnam, Mar. 2017 (in Vietnamese).
 
-[B2] **Ha M. Do**, *“Semiconductor Devices,”* The Textbook for students, Information and Communications Publishing House, 2015 (in Vietnamese).
+[B2] **Ha M. Do**, *“Semiconductor Devices,”*, Information and Communications Publishing House, 2015 (in Vietnamese).
 
-[B1] **Ha M. Do**, *“Fundamental of Electronic Measurement and Instrument,”* The Textbook for students, Information and Communications Publishing House, 2009 (in Vietnamese).
+[B1] **Ha M. Do**, *“Fundamental of Electronic Measurement and Instrument,”*, Information and Communications Publishing House, 2009 (in Vietnamese).
 
 # Journals
 
@@ -40,9 +44,9 @@ Distracted Driving based on Deep Learning</span>](http://dx.doi.org/10.1049/iet-
 
 # Conferences
 
-[C17] Thanh Thieu, **Ha M. Do**, Thanh Duong, Shi Pu, Sathyanarayanan Aakur, and Saad Khan, "[<span style="color:orange">LexDivPara: A Measure of Paraphrase Quality with Integrated Sentential Lexical Complexity](https://link.springer.com/chapter/10.1007/978-3-030-82199-9_1)," In Proceedings of SAI Intelligent Systems Conference,Springer International Publishing, 2021.
+[C17] Thanh Thieu, **Ha M. Do**, Thanh Duong, Shi Pu, Sathyanarayanan Aakur, and Saad Khan, "[<span style="color:orange">LexDivPara: A Measure of Paraphrase Quality with Integrated Sentential Lexical Complexity</span>](https://link.springer.com/chapter/10.1007/978-3-030-82199-9_1)," In Proceedings of SAI Intelligent Systems Conference,Springer International Publishing, 2021.
 
-[C16] Duy Tran, **Ha M. Do**, Jiaxing Lu, Weihua Sheng, "[<span style="color:orange">Real-Time Detection of Distracted Driving Using Dual Cameras](https://doi.org/10.1049/iet-its.2018.5172)," *Intelligent Robots and Systems (IROS), 2020 IEEE/RSJ International Conference on*. 2020.
+[C16] Duy Tran, **Ha M. Do**, Jiaxing Lu, Weihua Sheng, "[<span style="color:orange">Real-Time Detection of Distracted Driving Using Dual Cameras</span>](https://doi.org/10.1049/iet-its.2018.5172)," *Intelligent Robots and Systems (IROS), 2020 IEEE/RSJ International Conference on*. 2020.
 
 [C15] Erin Harrington, **Ha M. Do**, Alex J. Bishop, Celinda Reese-Melancon, Weihua Sheng, "[<span style="color:orange">Examining discrepancies in social robot versus human assessments of geriatric well-being</span>](https://doi.org/10.1093/geroni/igz038.1199),” *Innovation in Aging*, Volume 3, Issue Supplement_1, 2019.		
 
@@ -76,7 +80,7 @@ Distracted Driving based on Deep Learning</span>](http://dx.doi.org/10.1049/iet-
 [C1] Hieu T. Nguyen, **Ha M. Do**, Bac H. Dang, Quang S. Dinh, and Minh. N. Nguyen, “A Development of the Digital Cable Faulty Detection and Measurement System”, in *36th AIC*, Manila, Philippines, 2007.
 
 # Posters and 
-[P3] Karla C. Welch, Natalie Warning, Rohit Narayanan, Prasad Nethala, Ha M. Do, Saipruthvi Vanaparthy, Shaye Allen, and Sabrina Daisey, “[<span style="color:orange">First impressions of a NAO robot: evaluating emotions through E4 data and questionnaires](https://par.nsf.gov/servlets/purl/10355841)," In Conference of the International Society for Research on Emotion (ISRE). 2022.
+[P3] Karla C. Welch, Natalie Warning, Rohit Narayanan, Prasad Nethala, Ha M. Do, Saipruthvi Vanaparthy, Shaye Allen, and Sabrina Daisey, “[<span style="color:orange">First impressions of a NAO robot: evaluating emotions through E4 data and questionnaires</span>](https://par.nsf.gov/servlets/purl/10355841)," In Conference of the International Society for Research on Emotion (ISRE). 2022.
 
 [P2] **Ha M. Do**, “Sound-based human activity monitoring for home service robots”, NSF Doctoral Consortium meeting, *Automation Science and Engineering (CASE), 2016 IEEE International Conference on*. 2016
 
