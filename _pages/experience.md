@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Projects"
-permalink: /projects/
+title: "Experiences"
+permalink: /experiences/
 author_profile: true
 ---
 # Current Projects
