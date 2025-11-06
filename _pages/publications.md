@@ -79,7 +79,7 @@ Distracted Driving based on Deep Learning</span>](http://dx.doi.org/10.1049/iet-
 
 [C1] Hieu T. Nguyen, **Ha M. Do**, Bac H. Dang, Quang S. Dinh, and Minh. N. Nguyen, “A Development of the Digital Cable Faulty Detection and Measurement System”, in *36th AIC*, Manila, Philippines, 2007.
 
-# Posters and 
+# Posters
 [P3] Karla C. Welch, Natalie Warning, Rohit Narayanan, Prasad Nethala, Ha M. Do, Saipruthvi Vanaparthy, Shaye Allen, and Sabrina Daisey, “[<span style="color:orange">First impressions of a NAO robot: evaluating emotions through E4 data and questionnaires</span>](https://par.nsf.gov/servlets/purl/10355841)," In Conference of the International Society for Research on Emotion (ISRE). 2022.
 
 [P2] **Ha M. Do**, “Sound-based human activity monitoring for home service robots”, NSF Doctoral Consortium meeting, *Automation Science and Engineering (CASE), 2016 IEEE International Conference on*. 2016
